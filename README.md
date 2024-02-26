@@ -7,7 +7,7 @@ Welcome to my Github. Here some ideas about me:
 - 📫 How to reach me: 
 - Linkedin: https://www.linkedin.com/in/melissa-oliveira-66b308137/
 - E-mail: melissadias@alumni.usp.br
-- ⚡ Fun fact: Looking to team up with meteorology wizards from around the globe! Let's cook up some weather magic together. ⚡🌎
+- ⚡ Looking to team up with meteorology wizards from around the globe! Let's cook up some weather magic together. ⚡🌎
 
 <!--
 **DiasMelissa/DiasMelissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
