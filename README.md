@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my Github. Here some ideas about me:
+Welcome to my Github! Here are a few tidbits about me:
 
 - 🔭 I’m currently a PhD student at the University of São Paulo
 - 👯 I’m looking to collaborate on python, data science, numerical weather modeling and what is related to meteorology
